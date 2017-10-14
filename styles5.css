@@ -1,0 +1,60 @@
+body {
+	background-image: url("qa.jpg");
+	color: blue;
+	font-size: 14pt;
+}
+
+
+a:link {
+    color: black;
+}
+
+
+a:visited {
+    color: black;
+}
+
+
+a:hover {
+    color: yellow;
+}
+
+
+a:active {
+    color: black;
+}
+</style>
+</head>
+<body>
+
+body{ font-family: 'Merriweather', serif; }
+
+h1{ font-size: 375%;
+font-weight: bold;
+color: yellow;
+}
+
+h2 { font-size: 200%;
+font-weight: bold;
+color: yellow;
+}
+li a {
+	text-decoration: none;
+	color: black;
+}
+
+
+
+<style>
+
+nav {
+	background-color: white;
+	height: 30px;
+}
+
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+}
+
+</style>

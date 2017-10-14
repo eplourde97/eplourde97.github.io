@@ -1,0 +1,74 @@
+
+
+
+body {
+	background-image: url("mountain.jpg");
+	color: blue;
+	font-size: 14pt;
+}
+
+
+a:link {
+    color: black;
+}
+
+
+a:visited {
+    color: black;
+}
+
+
+a:hover {
+    color: yellow;
+}
+
+
+a:active {
+    color: black;
+}
+</style>
+</head>
+<body>
+
+body{ font-family: 'Merriweather', serif; }
+
+h1{ font-size: 240%;
+font-weight: bold;
+color: blue;
+}
+
+h2 { font-size: 150%;
+font-weight: bold;
+color: blue;
+}
+li a {
+	text-decoration: none;
+	color: black;
+}
+
+
+
+<style>
+
+nav {
+	background-color: white;
+	height: 30px;
+}
+
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+}
+
+</style>
+
+
+
+
+
+
+
+
+
+
+

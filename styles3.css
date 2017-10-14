@@ -1,0 +1,57 @@
+body {
+	background-image: url("RL.jpg");
+	color: yellow;
+	font-size:15pt;
+}
+
+
+a:link {
+    color: yellow;
+}
+
+
+a:visited {
+    color: yellow;
+}
+
+
+a:hover {
+    color: white;
+}
+
+
+a:active {
+    color: yellow;
+}
+</style>
+</head>
+
+
+
+body{ font-family: 'Merriweather', serif; }
+
+h1{ font-size: 280%;
+font-weight: bold;
+color: yellow
+}
+
+
+li a {
+	text-decoration: none;
+	color: black;
+}
+
+
+<style>
+
+nav {
+	background-color: white;
+	height: 30px;
+}
+
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+}
+
+</style>

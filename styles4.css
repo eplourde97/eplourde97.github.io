@@ -1,0 +1,65 @@
+
+
+
+
+
+body {
+	background-image: url("back.jpg");
+	color: black;
+	font-size: 30;
+}
+
+
+body{ font-family: 'Merriweather', serif; }
+
+h1{ font-size: 350%;
+font-weight: bold;
+color: black
+}
+
+
+
+
+
+a:link {
+    color: black;
+}
+
+
+a:visited {
+    color: black;
+}
+
+
+a:hover {
+    color: blue;
+}
+
+
+a:active {
+    color: black;
+}
+
+
+
+
+li a {
+	text-decoration: none;
+	color: black;
+}
+
+
+
+<style>
+
+nav {
+	background-color: white;
+	height: 30px;
+}
+
+nav ul li {
+	list-style-type: none;
+	width: 150px;
+}
+
+</style>
